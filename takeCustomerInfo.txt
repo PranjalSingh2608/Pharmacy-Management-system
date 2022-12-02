@@ -1,0 +1,60 @@
+Order Number : 1
+Customer Name : Pranjal
+Date : 2/11/2022
+Number Of Medicine Ordered : 1
+Medicine Name : Probiotics
+Medicine Quantity : 1
+Order Number : 2
+Customer Name : Vaibhav
+Date : 2/11/2022
+Number Of Medicine Ordered : 1
+Medicine Name : Women'S Multivate
+Medicine Quantity : 1
+Order Number : 3
+Customer Name : Sanket
+Date : 17/11/2022
+Number Of Medicine Ordered : 2
+Medicine Name : Women'S Multivate
+Medicine Quantity : 2
+Medicine Name : Amino Zinc Tablet
+Medicine Quantity : 8
+Order Number : 4
+Customer Name : Shubham
+Date : 17/11/2022
+Number Of Medicine Ordered : 1
+Medicine Name : Marino Tablet
+Medicine Quantity : 1
+Order Number : 4
+Customer Name : Varun
+Date : 21/11/2022
+Number Of Medicine Ordered : 2
+Medicine Name : Vitamin C(500mg)
+Medicine Quantity : 1
+Medicine Name : Marino Tablet
+Medicine Quantity : 2
+Order Number : 5
+Customer Name : Parth
+Date : 21/11/2022
+Number Of Medicine Ordered : 1
+Medicine Name : Probiotics
+Medicine Quantity : 1
+Order Number : 1
+Customer Name : Sriniwas
+Date : 21/11/2022
+Number Of Medicine Ordered : 4
+Medicine Name : Vitamin C(500mg)
+Medicine Quantity : 1
+Medicine Name : Probiotics
+Medicine Quantity : 2
+Order Number : 2
+Customer Name : Rohith
+Date : 21/11/2022
+Number Of Medicine Ordered : 1
+Medicine Name : Vitamin C(500mg)
+Medicine Quantity : 2
+Order Number : 1
+Customer Name : w
+Date : 1
+Number Of Medicine Ordered : 1
+Medicine Name : Probiotics
+Medicine Quantity : 1
